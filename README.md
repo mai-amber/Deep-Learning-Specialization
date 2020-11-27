@@ -10,3 +10,5 @@
 ## Improving Deep Neural Networks
 
 1. Initialization
+2. Regularization
+3. Gradient checking
